@@ -6,3 +6,4 @@ hello git
 hello git
 hello g实打实大苏打威
 sssssssss
+这是在远程库中修改过的hello.txt
